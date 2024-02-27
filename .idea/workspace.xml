@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb13de81-8a7b-491c-b0cf-ffb12826060b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Casemodule1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casemodule1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ctdk9/b1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ctdk9/b1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ctdk9/b2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ctdk9/b2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ctdk9/ctdk2/c1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ctdk9/ctdk2/c2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ctdk9/ctdk2/c3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ctdk9/ctdk2/c4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MANG/b1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MANG/b2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bangcuuchuong/bangcuuchuong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bangcuuchuong/t.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham/b1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham/b2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham/b3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham/bai3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Casemodule1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham/bai3.3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham/bai3.4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap1/b1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap1/b2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap1/b3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap1/b4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap1/b5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap1/b6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap1/b7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap1/b8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap2/hcn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltvonglap2/tamgiac.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minitest/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minitest/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minitest/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minitest/bai4.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/songuyento/a.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bIRPWiYgOcyu7UBsOcy3pg7u7o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.bancocaro.html.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/quanc/OneDrive/Desktop/WebstormProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\quanc\OneDrive\Desktop\WebstormProjects\BT_TKB_table" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\quanc\OneDrive\Desktop\WebstormProjects\ham" />
+      <recent name="C:\Users\quanc\OneDrive\Desktop\WebstormProjects\ltvonglap2" />
+      <recent name="C:\Users\quanc\OneDrive\Desktop\WebstormProjects\bangcuuchuong" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb13de81-8a7b-491c-b0cf-ffb12826060b" name="Changes" comment="" />
+      <created>1705900584920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705900584920</updated>
+      <workItem from="1705900586083" duration="956000" />
+      <workItem from="1705901560797" duration="166000" />
+      <workItem from="1705901744567" duration="324000" />
+      <workItem from="1705902086797" duration="1278000" />
+      <workItem from="1705911106103" duration="5265000" />
+      <workItem from="1705916406710" duration="330000" />
+      <workItem from="1705916756621" duration="494000" />
+      <workItem from="1705917269447" duration="800000" />
+      <workItem from="1705918827586" duration="525000" />
+      <workItem from="1705930854895" duration="8865000" />
+      <workItem from="1705973401735" duration="131000" />
+      <workItem from="1705973726343" duration="132000" />
+      <workItem from="1705973957304" duration="8788000" />
+      <workItem from="1706001897350" duration="130000" />
+      <workItem from="1706002066453" duration="32000" />
+      <workItem from="1706002304666" duration="207000" />
+      <workItem from="1706017987953" duration="989000" />
+      <workItem from="1706065532882" duration="10400000" />
+      <workItem from="1706103953685" duration="2784000" />
+      <workItem from="1706145582394" duration="3239000" />
+      <workItem from="1706151121656" duration="105000" />
+      <workItem from="1706151272568" duration="359000" />
+      <workItem from="1706151653208" duration="2096000" />
+      <workItem from="1706155489171" duration="309000" />
+      <workItem from="1706155813159" duration="432000" />
+      <workItem from="1706156423834" duration="283000" />
+      <workItem from="1706160075238" duration="1648000" />
+      <workItem from="1706169906661" duration="7918000" />
+      <workItem from="1706190048495" duration="5837000" />
+      <workItem from="1706232321924" duration="9675000" />
+      <workItem from="1706258876835" duration="1487000" />
+      <workItem from="1706406085265" duration="293000" />
+      <workItem from="1706406393140" duration="299000" />
+      <workItem from="1706406735086" duration="5000" />
+      <workItem from="1706407101152" duration="368000" />
+      <workItem from="1706425700988" duration="107000" />
+      <workItem from="1706540770057" duration="1923000" />
+      <workItem from="1706576617806" duration="972000" />
+      <workItem from="1706579354377" duration="1278000" />
+      <workItem from="1706586187241" duration="4510000" />
+      <workItem from="1706602057326" duration="5935000" />
+      <workItem from="1706624115298" duration="2536000" />
+      <workItem from="1706664322305" duration="11176000" />
+      <workItem from="1706683878927" duration="9309000" />
+      <workItem from="1706711960510" duration="2535000" />
+      <workItem from="1706750939248" duration="12101000" />
+      <workItem from="1706855110162" duration="840000" />
+      <workItem from="1706887005711" duration="8000" />
+      <workItem from="1707902678219" duration="517000" />
+      <workItem from="1707903219621" duration="65000" />
+      <workItem from="1708007753301" duration="733000" />
+      <workItem from="1708008555724" duration="117000" />
+      <workItem from="1708008703345" duration="2253000" />
+      <workItem from="1708250817911" duration="3649000" />
+      <workItem from="1708305190732" duration="6009000" />
+      <workItem from="1708311394622" duration="6870000" />
+      <workItem from="1708318319656" duration="1493000" />
+      <workItem from="1708319838924" duration="213000" />
+      <workItem from="1708320078947" duration="573000" />
+      <workItem from="1708320771285" duration="670000" />
+      <workItem from="1708326303363" duration="2369000" />
+      <workItem from="1708329301415" duration="220000" />
+      <workItem from="1708335903106" duration="1677000" />
+      <workItem from="1708398567659" duration="3947000" />
+      <workItem from="1708478565139" duration="165000" />
+      <workItem from="1708478746806" duration="79000" />
+      <workItem from="1708478849481" duration="113000" />
+      <workItem from="1708478992805" duration="7095000" />
+      <workItem from="1708489460916" duration="373000" />
+      <workItem from="1708497592672" duration="77000" />
+      <workItem from="1708510150375" duration="587000" />
+      <workItem from="1708521361823" duration="843000" />
+      <workItem from="1708564417620" duration="1465000" />
+      <workItem from="1708571238452" duration="3546000" />
+      <workItem from="1708587772569" duration="4114000" />
+      <workItem from="1708660889091" duration="1360000" />
+      <workItem from="1708747237974" duration="2944000" />
+      <workItem from="1708767317136" duration="584000" />
+      <workItem from="1708829793757" duration="2124000" />
+      <workItem from="1708911668493" duration="1750000" />
+      <workItem from="1708913811829" duration="1718000" />
+      <workItem from="1708929695057" duration="1233000" />
+      <workItem from="1708934858677" duration="5308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
