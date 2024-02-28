@@ -1,4 +1,6 @@
+    // khai báo lớp
 class Student {
+    // khởi tạo các thuộc tính tương ứng của đối tượng.
     constructor (id, fullname, date, gender, grade, img) {
         this.id= id;
         this.fullname= fullname;
@@ -7,44 +9,8 @@ class Student {
         this.grade= grade;
         this.img = img;
     }
-    getID() {
-        return this.id;
-    }
-    getFullname() {
-        return this.fullname;
-    }
-    getDate() {
-        return this.date;
-    }
-    getGender(){
-        return this.gender;
-    }
-    getGrade() {
-        return this.grade;
-
-    }
-    getImg() {
-        return this.img;
-    }
-    setID(id) {
-        this.id=id;
-    }
-    setFullname(fullname) {
-        this.fullname=fullname;
-    }
-    setDate(date) {
-        this.date=date;
-    }
-    setGender(gender){
-        this.gender=gender;
-    }
-    setGrade(grade) {
-        this.grade=grade;
-    }
-    setImg(img){
-        this.img=img;
-    }
-
+   
+    //nhận các tham số mới và gán chúng cho các thuộc tính tương ứng.
     edit(id, fullname, date,gender, grade, img){
         this.id = id;
         this.fullname = fullname;
