@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb13de81-8a7b-491c-b0cf-ffb12826060b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/THI_MODULE_1/B1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/THI_MODULE_1/B2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/THI_MODULE_1/B3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/THI_MODULE_1/B4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ctdk9/b1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ctdk9/b1.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ctdk9/b2.html" afterDir="false" />
@@ -14,11 +18,11 @@
       <change afterPath="$PROJECT_DIR$/../ctdk9/ctdk2/c3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ctdk9/ctdk2/c4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casemodule1/StudentManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Casemodule1/StudentManagement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casemodule1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Casemodule1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casemodule1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Casemodule1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casemodule1/student.js" beforeDir="false" afterPath="$PROJECT_DIR$/Casemodule1/student.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casemodule1/stype.css" beforeDir="false" afterPath="$PROJECT_DIR$/Casemodule1/stype.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casemodule1/StudentManagement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casemodule1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casemodule1/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casemodule1/student.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casemodule1/stype.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +33,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -175,6 +179,8 @@
       <workItem from="1709025334121" duration="3867000" />
       <workItem from="1709042374054" duration="5857000" />
       <workItem from="1709082565208" duration="8032000" />
+      <workItem from="1709103234351" duration="3985000" />
+      <workItem from="1709131069885" duration="458000" />
     </task>
     <servers />
   </component>
